@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @michael-thorson
+- I am a computer science student at Bradley University in Peoria, IL.
+- I am currently learning several topics in computer science, including data structures, algorithms, data science, and computer architecture.
+- I am proficient in Java, C/C++, and Python. But, I have some work with R, HTML, CSS, and ASM.
+- Email: michaelwthorson@gmail.com
